@@ -1,0 +1,33 @@
+{
+  "name": "goit-js-hw-11",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-11/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szczepanskimichal/goit-js-hw-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szczepanskimichal/goit-js-hw-11/issues"
+  },
+  "homepage": "https://github.com/szczepanskimichal/goit-js-hw-11#readme",
+  "devDependencies": {
+    "buffer": "^5.7.1",
+    "parcel": "^2.8.3",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  },
+  "dependencies": {
+    "axios": "^1.3.4",
+    "moveto": "^1.8.2",
+    "notiflix": "^3.2.6",
+    "simplelightbox": "^2.12.1"
+  }
+}
