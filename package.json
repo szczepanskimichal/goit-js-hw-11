@@ -1,7 +1,7 @@
 {
   "name": "goit-js-hw-11",
   "version": "1.0.0",
-  "description": "",
+  "description": "Этот проект был создан при помощи Parcel. Для знакомства и настройки дополнительных возможностей [обратись к документации](https://parceljs.org/).",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url /goit-js-hw-11/",
@@ -31,5 +31,6 @@
     "moveto": "^1.8.2",
     "notiflix": "^3.2.6",
     "simplelightbox": "^2.12.1"
-  }
+  },
+  "main": "tailwind.config.js"
 }
